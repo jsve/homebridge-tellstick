@@ -15,7 +15,8 @@
     "url": "git://github.com/jsve/homebridge-tellstick.git"
   },
   "dependencies": {
-    "lowdb": "^0.15.5"
+    "lowdb": "^0.15.5",
+    "telldus": "^1.1.2"
   },
   "engines": {
     "homebridge": ">=0.2.0"

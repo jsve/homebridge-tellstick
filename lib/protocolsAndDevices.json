@@ -1,0 +1,196 @@
+{
+    "x10": {
+        "brands": [
+            "X10",
+            "unknown"
+        ],
+        "devices": {
+            "codeswitch": {
+                "parameters": {
+                    "unit": "1-16",
+                    "house": "A-P"
+                }
+            }
+        }
+    },
+    "fuhaote": {
+        "brands": [
+            "HQ",
+            "Rusta",
+            "unknown"
+        ],
+        "devices": {
+            "codeswitch": {
+                "parameters": {
+                    "code": "bin10"
+                }
+            }
+        }
+    },
+    "ikea":{
+        "brands":[
+            "ikea"
+        ],
+        "devices": {
+            "selflearning-switch": {
+                "parameters": {
+                    "system": "1-16",
+                    "units": "1-10",
+                    "fade": true
+                }
+            }
+        }
+    },
+    "arctech": {
+        "brands": [
+            "Kappa",
+            "Nexa",
+            "unknown",
+            "Rusta",
+            "CoCo Technologies",
+            "Elro",
+            "Proove",
+            "HomeEasy",
+            "KlikAanKlikUit",
+            "Intertechno",
+            "Chacon",
+            "Bye Bye Standby",
+            "unknown"
+        ],
+        "devices": {
+            "bell": {
+                "parameters": {
+                    "house": "A-P"
+                }
+            },
+            "codeswitch": {
+                "parameters": {
+                    "unit": "1-16",
+                    "house": "A-P"
+                }
+            },
+            "selflearning-dimmer": {
+                "parameters": {
+                    "unit": "1-16",
+                    "house": "1-67108863"
+                }
+            },
+            "selflearning-switch": {
+                "parameters": {
+                    "unit": "1-16",
+                    "house": "1-67108863"
+                }
+            }
+        }
+    },
+    "everflourish": {
+        "brands": [
+            "GAO",
+            "Clas Ohlson",
+            "unknown"
+        ],
+        "devices": {
+            "selflearning-switch": {
+                "parameters": {
+                    "unit": "1-4",
+                    "house": "0-16383"
+                }
+            }
+        }
+    },
+    "silvanchip": {
+        "brands": [
+            "Ecosavers",
+            "unknown"
+        ],
+        "devices": {
+            "selflearning-switch": {
+                "parameters": {
+                    "unit": "1-4",
+                    "house": "1-1048575"
+                }
+            }
+        }
+    },
+    "risingsun": {
+        "brands": [
+            "Conrad",
+            "Otio",
+            "Clas Ohlson",
+            "GAO",
+            "Kjell o Company",
+            "unknown"
+        ],
+        "devices": {
+            "selflearning-switch": {
+                "parameters": {
+                    "unit": "1-16",
+                    "house": "1-33554432"
+                }
+            },
+            "codeswitch": {
+                "parameters": {
+                    "unit": "1-4",
+                    "house": "1-4"
+                }
+            }
+        }
+    },
+    "sartano": {
+        "brands": [
+            "Elro",
+            "Rusta",
+            "Brennenstuhl",
+            "Sartano",
+            "unknown"
+        ],
+        "devices": {
+            "codeswitch": {
+                "parameters": {
+                    "code": true
+                }
+            }
+        }
+    },
+    "waveman": {
+        "brands": [
+            "Waveman",
+            "unknown"
+        ],
+        "devices": {
+            "codeswitch": {
+                "parameters": {
+                    "unit": "1-16",
+                    "house": "A-P"
+                }
+            }
+        }
+    },
+    "upm": {
+        "brands": [
+            "UPM",
+            "unknown"
+        ],
+        "devices": {
+            "selflearning-switch": {
+                "parameters": {
+                    "unit": "1-4",
+                    "house": "0-4095"
+                }
+            }
+        }
+    },
+    "yidong": {
+        "brands": [
+            "Goobay (experimental)",
+            "unknown"
+        ],
+        "devices": {
+            "selflearning-switch": {
+                "parameters": {
+                    "unit": "1-4"
+                }
+            }
+        }
+    }
+}
